@@ -1,9 +1,9 @@
 import setuptools
 
-with open('READ.md', 'r') as fh:
+with open('README.md', 'r') as fh:
   long_description = fh.read()
 
-setup(
+setuptools.setup(
   name = 'dghello', # name of package folder
   version = '0.1.0', # increase it with every release
   author = 'Daniel Groner',
