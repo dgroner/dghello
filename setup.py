@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
   name = 'dghello', # name of package folder
-  version = '0.1.0', # increase it with every release
+  version = '0.1.1', # increase it with every release
   author = 'Daniel Groner',
   author_email = 'dgroner@fordham.edu',
   license='MIT', # Chose a license from here: https://help.github.com/articles/li
