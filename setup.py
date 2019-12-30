@@ -1,4 +1,4 @@
-from setuptools
+import setuptools
 
 with open('READ.md', 'r') as fh:
   long_description = fh.read()
