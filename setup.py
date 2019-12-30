@@ -23,7 +23,7 @@ classifiers=[
   'Topic :: Software Development :: Build Tools',   # TODO
   'License :: OSI Approved :: MIT License', # Again, pick a license
   'Programming Language :: Python :: 3', #Specify which python versions that you
-  'Operating System :: OS Independant',
+  'Operating System :: OS Independent',
   ],
 python_requires='>=3.6',
 )
